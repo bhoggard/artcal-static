@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/event/view/:ignored/:id",
+      "destination": "/exhibits/:id.html",
+      "permanent": true
+    }
+  ]
+}
